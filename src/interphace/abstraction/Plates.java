@@ -1,7 +1,7 @@
 package interphace.abstraction;
 
 
-public abstract class Plates implements Cups {
+public abstract class Plates implements Dinnerware {
 	
     
 	public void roundPlates()	{

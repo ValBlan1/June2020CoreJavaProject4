@@ -1,6 +1,6 @@
 package interphace.abstraction;
 
-public interface Cups {
+public interface Dinnerware {
 
 	public void nashvilleCup();
 	public void roundPlates();

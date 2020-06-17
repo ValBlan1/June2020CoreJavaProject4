@@ -1,6 +1,6 @@
 package interphace.abstraction;
 
-public class CupsPlates extends Plates implements Cups {	
+public class CupsPlates extends Plates implements Dinnerware {	
 		public void nashvilleCup() {
 				System.out.println("The Nashvile Cup");
 		}
